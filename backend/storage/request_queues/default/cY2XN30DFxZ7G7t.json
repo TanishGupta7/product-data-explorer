@@ -1,0 +1,9 @@
+{
+	"id": "cY2XN30DFxZ7G7t",
+	"json": "{\"id\":\"cY2XN30DFxZ7G7t\",\"url\":\"https://www.worldofbooks.com/en-gb/products/lion-inside-book-rachel-bright-9781408331606\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/lion-inside-book-rachel-bright-9781408331606\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/lion-inside-book-rachel-bright-9781408331606\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"source\":\"listing\",\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-domain\",\"state\":4}},\"handledAt\":\"2026-01-14T12:56:26.998Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/lion-inside-book-rachel-bright-9781408331606",
+	"url": "https://www.worldofbooks.com/en-gb/products/lion-inside-book-rachel-bright-9781408331606"
+}

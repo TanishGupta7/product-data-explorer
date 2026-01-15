@@ -1,0 +1,9 @@
+{
+	"id": "2WbYxy7BpbiMC0v",
+	"json": "{\"id\":\"2WbYxy7BpbiMC0v\",\"url\":\"https://www.worldofbooks.com/en-gb/collections/childrens-books\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/collections/childrens-books\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/collections/childrens-books\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-01-14T12:55:31.071Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/collections/childrens-books",
+	"url": "https://www.worldofbooks.com/en-gb/collections/childrens-books"
+}

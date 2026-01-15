@@ -1,0 +1,9 @@
+{
+	"id": "G1riNwHmDlorpA7",
+	"json": "{\"id\":\"G1riNwHmDlorpA7\",\"url\":\"https://www.worldofbooks.com/en-gb/products/paddington-book-michael-bond-9780007236336\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/paddington-book-michael-bond-9780007236336?sku=GOR001104493\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/paddington-book-michael-bond-9780007236336\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"source\":\"listing\",\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-domain\",\"state\":4}},\"handledAt\":\"2026-01-14T12:55:53.683Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/paddington-book-michael-bond-9780007236336",
+	"url": "https://www.worldofbooks.com/en-gb/products/paddington-book-michael-bond-9780007236336"
+}

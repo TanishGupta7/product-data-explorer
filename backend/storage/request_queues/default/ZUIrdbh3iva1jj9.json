@@ -1,0 +1,9 @@
+{
+	"id": "ZUIrdbh3iva1jj9",
+	"json": "{\"id\":\"ZUIrdbh3iva1jj9\",\"url\":\"https://www.worldofbooks.com/en-gb/products/gruffalo-book-julia-donaldson-9781509830398\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/gruffalo-book-julia-donaldson-9781509830398\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/gruffalo-book-julia-donaldson-9781509830398\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"source\":\"listing\",\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-domain\",\"state\":4}},\"handledAt\":\"2026-01-14T12:55:57.086Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/gruffalo-book-julia-donaldson-9781509830398",
+	"url": "https://www.worldofbooks.com/en-gb/products/gruffalo-book-julia-donaldson-9781509830398"
+}

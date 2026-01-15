@@ -1,0 +1,9 @@
+{
+	"id": "tXVNEOd6HI4C5gz",
+	"json": "{\"id\":\"tXVNEOd6HI4C5gz\",\"url\":\"https://www.worldofbooks.com/en-gb/products/singing-mermaid-book-julia-donaldson-9781509862733\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/singing-mermaid-book-julia-donaldson-9781509862733\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/singing-mermaid-book-julia-donaldson-9781509862733\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"source\":\"listing\",\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-domain\",\"state\":4}},\"handledAt\":\"2026-01-14T12:56:54.494Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/singing-mermaid-book-julia-donaldson-9781509862733",
+	"url": "https://www.worldofbooks.com/en-gb/products/singing-mermaid-book-julia-donaldson-9781509862733"
+}

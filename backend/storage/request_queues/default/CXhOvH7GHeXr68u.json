@@ -1,0 +1,9 @@
+{
+	"id": "CXhOvH7GHeXr68u",
+	"json": "{\"id\":\"CXhOvH7GHeXr68u\",\"url\":\"https://www.worldofbooks.com/en-gb/products/giraffes-can-t-dance-book-giles-andreae-9781841215655\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/giraffes-can-t-dance-book-giles-andreae-9781841215655\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/giraffes-can-t-dance-book-giles-andreae-9781841215655\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"source\":\"listing\",\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-domain\",\"state\":4}},\"handledAt\":\"2026-01-14T12:55:43.556Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/giraffes-can-t-dance-book-giles-andreae-9781841215655",
+	"url": "https://www.worldofbooks.com/en-gb/products/giraffes-can-t-dance-book-giles-andreae-9781841215655"
+}

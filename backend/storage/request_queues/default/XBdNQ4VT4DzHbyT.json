@@ -1,0 +1,9 @@
+{
+	"id": "XBdNQ4VT4DzHbyT",
+	"json": "{\"id\":\"XBdNQ4VT4DzHbyT\",\"url\":\"https://www.worldofbooks.com/en-gb/products/christmasaurus-book-tom-fletcher-9780141373348\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/christmasaurus-book-tom-fletcher-9780141373348\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/christmasaurus-book-tom-fletcher-9780141373348\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"source\":\"listing\",\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-domain\",\"state\":4}},\"handledAt\":\"2026-01-14T12:56:35.466Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/christmasaurus-book-tom-fletcher-9780141373348",
+	"url": "https://www.worldofbooks.com/en-gb/products/christmasaurus-book-tom-fletcher-9780141373348"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "K1TST5Axzw1XdzO",
+	"json": "{\"id\":\"K1TST5Axzw1XdzO\",\"url\":\"https://www.worldofbooks.com/en-gb/products/i-love-you-to-the-moon-and-back-book-amelia-hepworth-9781848690691\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/i-love-you-to-the-moon-and-back-book-amelia-hepworth-9781848690691\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/i-love-you-to-the-moon-and-back-book-amelia-hepworth-9781848690691\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"source\":\"listing\",\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-domain\",\"state\":4}},\"handledAt\":\"2026-01-14T12:56:03.149Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/i-love-you-to-the-moon-and-back-book-amelia-hepworth-9781848690691",
+	"url": "https://www.worldofbooks.com/en-gb/products/i-love-you-to-the-moon-and-back-book-amelia-hepworth-9781848690691"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "fGAEYAYEBoU6pbX",
+	"json": "{\"id\":\"fGAEYAYEBoU6pbX\",\"url\":\"https://www.worldofbooks.com/en-gb/products/on-the-farm-book-axel-scheffler-9781509866946\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/on-the-farm-book-axel-scheffler-9781509866946\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/on-the-farm-book-axel-scheffler-9781509866946\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"source\":\"listing\",\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-domain\",\"state\":4}},\"handledAt\":\"2026-01-14T12:56:46.098Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/on-the-farm-book-axel-scheffler-9781509866946",
+	"url": "https://www.worldofbooks.com/en-gb/products/on-the-farm-book-axel-scheffler-9781509866946"
+}

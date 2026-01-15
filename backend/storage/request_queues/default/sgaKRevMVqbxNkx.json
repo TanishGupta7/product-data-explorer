@@ -1,0 +1,9 @@
+{
+	"id": "sgaKRevMVqbxNkx",
+	"json": "{\"id\":\"sgaKRevMVqbxNkx\",\"url\":\"https://www.worldofbooks.com/en-gb/products/we-re-going-on-a-bear-hunt-book-michael-rosen-9780744523232\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/we-re-going-on-a-bear-hunt-book-michael-rosen-9780744523232\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/we-re-going-on-a-bear-hunt-book-michael-rosen-9780744523232\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"source\":\"listing\",\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-domain\",\"state\":4}},\"handledAt\":\"2026-01-14T12:56:26.695Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/we-re-going-on-a-bear-hunt-book-michael-rosen-9780744523232",
+	"url": "https://www.worldofbooks.com/en-gb/products/we-re-going-on-a-bear-hunt-book-michael-rosen-9780744523232"
+}

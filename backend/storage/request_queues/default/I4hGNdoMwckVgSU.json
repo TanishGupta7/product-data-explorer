@@ -1,0 +1,9 @@
+{
+	"id": "I4hGNdoMwckVgSU",
+	"json": "{\"id\":\"I4hGNdoMwckVgSU\",\"url\":\"https://www.worldofbooks.com/en-gb/products/detective-dog-book-julia-donaldson-9781509801602\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/detective-dog-book-julia-donaldson-9781509801602\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/detective-dog-book-julia-donaldson-9781509801602\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"source\":\"listing\",\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-domain\",\"state\":4}},\"handledAt\":\"2026-01-14T12:56:04.473Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/detective-dog-book-julia-donaldson-9781509801602",
+	"url": "https://www.worldofbooks.com/en-gb/products/detective-dog-book-julia-donaldson-9781509801602"
+}

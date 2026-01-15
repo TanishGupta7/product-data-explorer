@@ -1,0 +1,9 @@
+{
+	"id": "eOiIP4YwTiqzcl4",
+	"json": "{\"id\":\"eOiIP4YwTiqzcl4\",\"url\":\"https://www.worldofbooks.com/en-gb/products/guess-how-much-i-love-you-book-sam-mcbratney-9781406358780\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/guess-how-much-i-love-you-book-sam-mcbratney-9781406358780\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/guess-how-much-i-love-you-book-sam-mcbratney-9781406358780\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"source\":\"listing\",\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-domain\",\"state\":4}},\"handledAt\":\"2026-01-14T12:56:14.962Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/guess-how-much-i-love-you-book-sam-mcbratney-9781406358780",
+	"url": "https://www.worldofbooks.com/en-gb/products/guess-how-much-i-love-you-book-sam-mcbratney-9781406358780"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "AOKfBmIDJRFAppW",
+	"json": "{\"id\":\"AOKfBmIDJRFAppW\",\"url\":\"https://www.worldofbooks.com/en-gb/products/wonky-donkey-book-craig-smith-9781407195575\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/wonky-donkey-book-craig-smith-9781407195575?sku=GOR009654564\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/wonky-donkey-book-craig-smith-9781407195575\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"source\":\"listing\",\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-domain\",\"state\":4}},\"handledAt\":\"2026-01-14T12:56:00.079Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/wonky-donkey-book-craig-smith-9781407195575",
+	"url": "https://www.worldofbooks.com/en-gb/products/wonky-donkey-book-craig-smith-9781407195575"
+}

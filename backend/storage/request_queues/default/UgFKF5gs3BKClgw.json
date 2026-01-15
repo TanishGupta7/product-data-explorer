@@ -1,0 +1,9 @@
+{
+	"id": "UgFKF5gs3BKClgw",
+	"json": "{\"id\":\"UgFKF5gs3BKClgw\",\"url\":\"https://www.worldofbooks.com/en-gb/products/five-minutes-peace-book-jill-murphy-9781406361902\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/five-minutes-peace-book-jill-murphy-9781406361902\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/five-minutes-peace-book-jill-murphy-9781406361902\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"source\":\"listing\",\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-domain\",\"state\":4}},\"handledAt\":\"2026-01-14T12:56:07.935Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/five-minutes-peace-book-jill-murphy-9781406361902",
+	"url": "https://www.worldofbooks.com/en-gb/products/five-minutes-peace-book-jill-murphy-9781406361902"
+}

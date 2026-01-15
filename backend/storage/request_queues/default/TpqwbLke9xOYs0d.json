@@ -1,0 +1,9 @@
+{
+	"id": "TpqwbLke9xOYs0d",
+	"json": "{\"id\":\"TpqwbLke9xOYs0d\",\"url\":\"https://www.worldofbooks.com/en-gb/products/very-hungry-caterpillar-book-eric-carle-9780241003008\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/products/very-hungry-caterpillar-book-eric-carle-9780241003008\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/products/very-hungry-caterpillar-book-eric-carle-9780241003008\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"source\":\"listing\",\"label\":\"DETAIL\",\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-domain\",\"state\":4}},\"handledAt\":\"2026-01-14T12:55:57.385Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/products/very-hungry-caterpillar-book-eric-carle-9780241003008",
+	"url": "https://www.worldofbooks.com/en-gb/products/very-hungry-caterpillar-book-eric-carle-9780241003008"
+}
